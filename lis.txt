@@ -1,0 +1,4 @@
+lis created
+thing to do
+practice java
+practice git
